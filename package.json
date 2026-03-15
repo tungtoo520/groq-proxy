@@ -1,0 +1,11 @@
+{
+  "name": "groq-proxy",
+  "version": "1.0.0",
+  "description": "Groq API Proxy via Vercel Edge Functions",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {}
+}
